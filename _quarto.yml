@@ -1,4 +1,4 @@
 project:
-  output-dir: rendered_slides
+  output-dir: docs
 
 format: html
