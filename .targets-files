@@ -1,0 +1,16 @@
+.gitignore
+.quarto/_freeze/index/execute-results/html.json
+.quarto/xref/41111f46
+.quarto/xref/INDEX
+.targets-files
+_targets/.gitignore
+_targets/meta/meta
+_targets/meta/process
+_targets/meta/progress
+_targets/objects/pres_change
+docs/images/play_store.png
+docs/images/repro_spectrum.png
+docs/images/with_docker.png
+docs/images/without_docker.png
+docs/index.html
+result
