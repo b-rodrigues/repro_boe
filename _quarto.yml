@@ -1,6 +1,2 @@
 project:
   output-dir: docs
-
-format:
-  html:
-    output-file: index.html
