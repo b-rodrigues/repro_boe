@@ -1,7 +1,7 @@
-.gitignore
 .quarto/_freeze/index/execute-results/html.json
 .quarto/xref/2471828d
 .quarto/xref/41111f46
+.quarto/xref/5b66e2cd
 .quarto/xref/INDEX
 .targets-files
 .targets-runs/
@@ -16,3 +16,4 @@ docs/images/with_docker.png
 docs/images/without_docker.png
 docs/index.html
 result
+.gitignore

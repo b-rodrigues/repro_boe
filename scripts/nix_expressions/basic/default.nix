@@ -5,7 +5,7 @@ let
   # reproducible as it keeps changing!
   # To make this reproducible, the expression needs to point
   # to a specific commit
-  pkgs = import (fetchTarball "https://github.com/NixOS/nixpkgs/archive/refs/heads/master.tar.gz") {};
+  pkgs = import (fetchTarball "https://github.com/rstats-on-nix/nixpkgs/archive/2024-12-14.tar.gz") {};
 
   # System packages, such as programming languages
   system_packages = builtins.attrValues {
