@@ -7,6 +7,8 @@ format:
     slide-number: true
     theme: solarized
     incremental: true
+  pptx:
+    freeze: true
 execute:
   echo: true
 ---
